@@ -1,1 +1,3 @@
-# Shrouq_Python_Project
+git add .
+git commit -m "Final Project"
+git push origin main
